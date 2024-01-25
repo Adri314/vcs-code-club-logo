@@ -1,0 +1,1 @@
+VCSLogo.showCodeClubLogo()
