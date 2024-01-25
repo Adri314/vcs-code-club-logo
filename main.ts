@@ -1,1 +1,1 @@
-VCSLogo.showCodeClubLogo()
+
